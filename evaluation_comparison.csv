@@ -1,0 +1,4 @@
+Method,Query,Answer Correctness,Context Precision,Context Recall
+Vector-based,chriz mary,0.333,0.333,0.333
+Graph-based,chriz mary,0.286,0.286,0.667
+Hybrid,chriz mary,0.286,0.286,0.667
